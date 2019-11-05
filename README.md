@@ -10,13 +10,13 @@ There's been a crime in Gothenburg City! Someone sabotaged a popular concert eve
 * **a SQLite environment of your choice**: For beginners, we recommend using [TablePlus](https://tableplus.com/), which is a good graphical interface to use to inspect your data and write queries.
 
 ## Getting Started
-* **For SQL beginners**: start with the reference, read the [prompt_beginner](placeholder) file, then get started by [installing TablePlus and loading the db file](placeholder). If you get stuck at any point, feel free to refer back to the reference, or file a [GitHub issue](placeholder) so we can know where our instructions need to be improved.
+* **For SQL beginners**: start with the reference, read the [prompt_beginner](https://github.com/henribjork/Concert-Sabotage-Mystery/blob/master/prompt_beginner.pdf) file, then get started by [installing TablePlus and loading the db file](placeholder). If you get stuck at any point, feel free to refer back to the reference, or file a [GitHub issue](https://github.com/henribjork/Concert-Sabotage-Mystery/issues) so we can know where our instructions need to be improved.
 
 ## Authors
 
-* [Henric Björkvall](placeholder)
-* [Jesper Lundqvist](placeholder)
-* [Erik Johannesson](placeholder)
+* [Henric Björkvall](henribjork.github.io)
+* [Jesper Lundqvist](jesperlndqvst.github.io)
+* [Erik Johannesson](Erik-joh.github.io)
 
 ## Inspiration
 This murder mystery was inspired by [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries).
