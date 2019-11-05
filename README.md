@@ -14,9 +14,9 @@ There's been a crime in Gothenburg City! Someone sabotaged a popular concert eve
 
 ## Authors
 
-* [Henric Björkvall](henribjork.github.io)
-* [Jesper Lundqvist](jesperlndqvst.github.io)
-* [Erik Johannesson](Erik-joh.github.io)
+* [Henric Björkvall](https://github.com/henribjork)
+* [Jesper Lundqvist](https://github.com/jesperlndqvst)
+* [Erik Johannesson](https://github.com/erik-joh)
 
 ## Inspiration
 This murder mystery was inspired by [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries).
