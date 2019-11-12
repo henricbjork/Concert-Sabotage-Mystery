@@ -11,7 +11,7 @@ WHERE person_id = 12 OR person_id = 287;
 
 SELECT * FROM employees
 INNER JOIN drivers_license ON drivers_license.id = employees.license_id
-WHERE occupation = ‘Sound technician’
+WHERE occupation = ‘Sound tech’
 AND gender = ‘Female’;
 
 SELECT name, transcript FROM person
