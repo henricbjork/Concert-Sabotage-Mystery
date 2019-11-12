@@ -12,7 +12,7 @@ There's been a crime in Gothenburg City! Someone sabotaged a popular concert eve
 ## Getting Started
 * **For SQL beginners**: start with the reference, read the [prompt_beginner](https://github.com/henribjork/Concert-Sabotage-Mystery/blob/master/prompt_beginner.pdf) file, then get started by [installing TablePlus and loading the db file](placeholder). If you get stuck at any point, feel free to refer back to the reference, or file a [GitHub issue](https://github.com/henribjork/Concert-Sabotage-Mystery/issues) so we can know where our instructions need to be improved.
 
-* **When you think you have the answer**: Check out the [solution](placeholder) to see if you got it right.
+* **When you think you have the answer**: Check out the [solution](https://github.com/henricbjork/Concert-Sabotage-Mystery/blob/master/solution.txt) to see if you got it right.
 
 ## Authors
 
